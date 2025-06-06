@@ -1,0 +1,9 @@
+functions:block of code that take input perform operations and give output;
+
+syntax:
+retun type functionName(type arg1, type arg2,...){
+    //perform operations
+}
+
+arg-arguments i.e. input to function
+
